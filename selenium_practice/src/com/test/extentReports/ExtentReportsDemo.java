@@ -40,9 +40,9 @@ public class ExtentReportsDemo {
 		
 		logger.log(LogStatus.INFO, "WordPress Page opened");
 		
-		driver.findElement(By.xpath(".//*[@id='user_login']")).sendKeys("savanth.ch@gmail.com");
+		driver.findElement(By.xpath(".//*[@id='user_login']")).sendKeys("saibersys1987@gmail.com");
 		
-		driver.findElement(By.xpath(".//*[@id='user_pass']")).sendKeys("Nanu@8113");
+		driver.findElement(By.xpath(".//*[@id='user_pass']")).sendKeys("saibersys12345");
 		
 		driver.findElement(By.xpath(".//*[@id='wp-submit']")).click();
 		

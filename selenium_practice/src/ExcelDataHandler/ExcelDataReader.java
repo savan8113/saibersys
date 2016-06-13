@@ -12,13 +12,14 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
+import org.testng.annotations.Test;
 
 public class ExcelDataReader {
 	
 	
 	static WebDriver driver;
 	
-	
+	@Test
 	public static void main(String args[]) throws Exception
 	{
 		

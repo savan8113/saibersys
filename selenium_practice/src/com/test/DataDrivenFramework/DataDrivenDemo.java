@@ -47,13 +47,13 @@ public class DataDrivenDemo {
 		
 		data[0][1]="demo123";
 		
-		data[1][0]="savanth.ch@gmail";
+		data[1][0]="savanth@gmail";
 		
-		data[1][1]="Nanu123";
+		data[1][1]="abcd1234";
 		
-		data[2][0]="savanth.ch@gmail.com";
+		data[2][0]="saibersys1987@gmail.com";
 		
-		data[2][1]="Nanu@8113";
+		data[2][1]="saibersys12345";
 		
 		return data;
 		

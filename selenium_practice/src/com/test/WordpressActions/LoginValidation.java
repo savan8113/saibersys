@@ -22,7 +22,7 @@ public class LoginValidation {
 		
 		LoginPage loginPage= PageFactory.initElements(driver, LoginPage.class);
 		
-		loginPage.login_wordpress("savanth.ch@gmail.com", "Nanu@8113");
+		loginPage.login_wordpress("saibersys1987@gmail.com", "saibersys12345");
 		
 	}
 	
