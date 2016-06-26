@@ -1,0 +1,8 @@
+2016-06-23 10:08:05,699 WARN  [SoapUI] Missing folder [/Users/Savanth/Documents/workspace/SoapUITest/ext] for external libraries
+2016-06-23 10:08:05,916 INFO  [DefaultSoapUICore] initialized soapui-settings from [/Users/Savanth/soapui-settings.xml]
+2016-06-23 10:08:06,364 INFO  [PluginManager] 0 plugins loaded in 2 ms
+2016-06-23 10:08:06,364 INFO  [DefaultSoapUICore] All plugins loaded
+2016-06-23 10:08:07,016 INFO  [WsdlProject] Loaded project from [file:/Users/Savanth/Desktop/SOAP-Practice/CalculatorService-soapui-project.xml]
+2016-06-23 10:08:07,026 INFO  [SoapUITestCaseRunner] Running SoapUI tests in project [CalculatorService]
+2016-06-23 10:08:07,027 INFO  [SoapUITestCaseRunner] Running Project [CalculatorService], runType = SEQUENTIAL
+2016-06-23 10:08:07,033 INFO  [SoapUITestCaseRunner] Project [CalculatorService] finished with status [FINISHED] in 0ms

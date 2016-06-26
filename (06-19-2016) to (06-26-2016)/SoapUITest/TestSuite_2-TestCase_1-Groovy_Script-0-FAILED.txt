@@ -1,0 +1,10 @@
+Status: FAILED
+Time Taken: 462
+Size: 0
+Timestamp: Thu Jun 23 10:01:28 CDT 2016
+TestStep: Groovy Script
+Error:org.apache.xmlbeans.XmlException: error: Unexpected end of file after null
+
+----------------- Messages ------------------------------
+org.apache.xmlbeans.XmlException: error: Unexpected end of file after null
+error at line: 7

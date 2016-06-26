@@ -17,8 +17,8 @@
 	<classpathentry kind="lib" path="lib/selenium-server-standalone-2.53.0.jar"/>
 	<classpathentry kind="lib" path="lib/curvesapi-1.03.jar"/>
 	<classpathentry kind="lib" path="lib/xmlbeans-2.6.0.jar"/>
-	<classpathentry kind="lib" path="/Users/Savanth/Downloads/extentreports-2.031.jar"/>
-	<classpathentry kind="lib" path="/Users/Savanth/Downloads/XSLT Report/lib/saxon-8.7.jar"/>
-	<classpathentry kind="lib" path="/Users/Savanth/Downloads/XSLT Report/lib/SaxonLiaison.jar"/>
+	<classpathentry kind="lib" path="/Users/Savanth/Documents/Softwares/extentreports-2.031.jar"/>
+	<classpathentry kind="lib" path="/Users/Savanth/Documents/Softwares/XSLT Report/lib/saxon-8.7.jar"/>
+	<classpathentry kind="lib" path="/Users/Savanth/Documents/Softwares/XSLT Report/lib/SaxonLiaison.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

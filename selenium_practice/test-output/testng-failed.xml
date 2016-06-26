@@ -3,11 +3,12 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test name="Default test(failed)">
     <classes>
-      <class name="com.test.corealm.Assignment">
+      <class name="com.test.DataDrivenFramework.DataDrivenDemo">
         <methods>
-          <include name="loginTest"/>
+          <include name="loginDemo" invocation-numbers="0"/>
+          <include name="driverQuit"/>
         </methods>
-      </class> <!-- com.test.corealm.Assignment -->
+      </class> <!-- com.test.DataDrivenFramework.DataDrivenDemo -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
